@@ -24,10 +24,12 @@
             <section class="text-center py-20 px-4">
                 <div class="flex items-center justify-center min-h-screen p-4">
                     <div class="text-center max-w-4xl mx-auto p-10">
-                        <h1 class="text-2xl md:text-4xl font-bold mb-4 text-white">
-                            Trenger du bistand innenfor Business Intelligence, datavarehus, implementering av
+                        <h1 class="text-3xl md:text-4xl font-bold mb-4 text-white">
+                            Trenger du bistand innenfor.. </h1>
+                            <h1 class="text-xl md:text-2xl font-bold mb-4 text-white">
+                            Business Intelligence, datavarehus, implementering av
                             rapporteringsverktøy eller utarbeidelse av rapporter? </h1>
-                        <p class="text-sm md:text-lg text-gray-300 mb-8">
+                        <p class="text-md md:text-lg text-gray-300 mb-8">
                             Larsen BI Konsult AS er klar til å bistå i prosjektene som hjelper din bedrift i å knytte
                             forretningsprosessene deres med data, slik at dere kan maksimere beslutningsgrunnlag,
                             effektivisere prosesser og skaffe den nødvendige oversikten.
