@@ -4,7 +4,7 @@
         <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
             <a href="/" class="text-gray-900 hover:text-gray-700">Larsen Bi Konsult</a>
             <div class="md:space-x-5 flex items-center">
-                <a href="#" class="hover:text-gray-900 hover:underline font-bold">Om oss</a>
+                <a href="/about" class="hover:text-gray-900 hover:underline font-bold">Om oss</a>
                 <a href="#kontakt"
                     class="md:bg-black md:text-white font-bold text-md px-5 py-3 rounded md:hover:text-black md:border md:border-black md:hover:bg-white">Kontakt
                     Oss</a>
