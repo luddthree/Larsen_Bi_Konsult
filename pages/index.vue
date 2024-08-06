@@ -24,9 +24,9 @@
             <section class="text-center py-20 px-4">
                 <div class="flex items-center justify-center min-h-screen p-4">
                     <div class="text-center max-w-4xl mx-auto p-10">
-                        <h1 class="text-3xl md:text-4xl font-bold mb-4 text-white">
+                        <h1 class="text-3xl md:text-4xl font-bold mb-2 text-white">
                             Trenger du bistand innenfor.. </h1>
-                            <h1 class="text-xl md:text-2xl font-bold mb-4 text-white">
+                            <h1 class="text-xl md:text-2xl font-bold mb-5 text-white">
                             Business Intelligence, datavarehus, implementering av
                             rapporteringsverktøy eller utarbeidelse av rapporter? </h1>
                         <p class="text-md md:text-lg text-gray-300 mb-8">
