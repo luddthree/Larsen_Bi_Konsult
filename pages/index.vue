@@ -1,16 +1,5 @@
 <template>
-    <!-- Navigation -->
-    <nav class="bg-white py-2.5 sticky top-0 z-50 shadow-md">
-        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
-            <a href="/" class="text-gray-900 hover:text-gray-700">Larsen Bi Konsult</a>
-            <div class="md:space-x-5 flex items-center">
-                <a href="/about" class="hover:text-gray-900 hover:underline font-bold">Om oss</a>
-                <a href="#kontakt"
-                    class="md:bg-black md:text-white font-bold text-md px-5 py-3 rounded md:hover:text-black md:border md:border-black md:hover:bg-white">Kontakt
-                    Oss</a>
-            </div>
-        </div>
-    </nav>
+
 
 
 
@@ -29,10 +18,11 @@
                             <h1 class="text-xl md:text-2xl font-bold mb-5 text-white">
                             Business Intelligence, datavarehus, implementering av
                             rapporteringsverktøy eller utarbeidelse av rapporter? </h1>
-                        <p class="text-md md:text-lg text-gray-300 mb-8">
+                        <p class="text-md md:text-lg text-gray-300 mb-3">
                             Larsen BI Konsult AS er klar til å bistå i prosjektene som hjelper din bedrift i å knytte
                             forretningsprosessene deres med data, slik at dere kan maksimere beslutningsgrunnlag,
-                            effektivisere prosesser og skaffe den nødvendige oversikten.
+                            effektivisere prosesser og skaffe den nødvendige oversikten.</p>
+                            <p class="text-md md:text-lg text-gray-300 mb-8">
 
                             Ta kontakt i dag for en uforpliktende prat om hvordan deres bedrift kan dra full nytte av
                             dataene deres! </p>
@@ -86,37 +76,16 @@
             <h2 class="text-3xl md:text-5xl font-bold mb-2">
                 <a href="mailto:hei@larsenbikonsult.no" class="hover:underline">hei@larsenbikonsult.no</a>
             </h2>
-            <p class="text-gray-700 mb-2 text-sm md:text-base">Eller ring oss på:</p>
+            <!-- <p class="text-gray-700 mb-2 text-sm md:text-base">Eller ring oss på:</p>
             <h2 class="text-xl md:text-3xl font-bold">
                 <a href="tel:+4790550266" class="hover:underline">(+47) 90 55 02 66</a>
-            </h2>
+            </h2> -->
         </div>
     </div>
 
 
 
-    <!-- Footer -->
-    <footer class="bg-gray-800 text-white py-6">
-        <div class="container mx-auto px-4">
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-center md:text-left">
-                <div>
-                    <p>Org. nr. 933 220 265</p>
-                    <p>Rostockgata 82, 0194 Oslo, Norge</p>
-                </div>
 
-                <div class="md:col-span-1 lg:col-span-1">
-                    <a href="mailto:hei@larsenbikonsult.no" class="hover:underline">hei@larsenbikonsult.no</a>
-                </div>
-                <div class="md:col-span-1 lg:col-span-1">
-                    <a href="https://linkedin.com/in/mathiaslarseen" target="_blank"
-                        class="hover:underline">LinkedIn</a>
-                </div>
-            </div>
-            <div class="border-t text-center border-gray-700 mt-6 pt-4">
-                <p>© 2024 Larsen BI Konsult AS</p>
-            </div>
-        </div>
-    </footer>
 
 
 

@@ -1,17 +1,4 @@
 <template>
-    <!-- Navigation -->
-    <nav class="bg-white py-2.5 sticky top-0 z-50 shadow-md">
-      <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
-        <a href="/" class="text-gray-900 hover:text-gray-700">Larsen Bi Konsult</a>
-        <div class="md:space-x-5 flex items-center">
-          <a href="/about" class="hover:text-gray-900 hover:underline font-bold">Om oss</a>
-          <a href="/#kontakt"
-              class="md:bg-black md:text-white font-bold text-md px-5 py-3 rounded md:hover:text-black md:border md:border-black md:hover:bg-white">Kontakt
-              Oss</a>
-        </div>
-      </div>
-    </nav>
-  
     <!-- About Section -->
     <div class="flex items-center justify-center min-h-screen bg-gray-100 p-4">
       <div class="text-center max-w-4xl mx-auto p-10">
