@@ -33,9 +33,15 @@
                     <a href="/tos"
                         class="hover:underline">Personvernspolicy</a>
                 </div>
+                <div class="md:col-span-1 lg:col-span-1">
+                    <p>Webutvikler:
+                    <a href="https://linkedin.com/in/ludvikvangli" target="_blank"
+                        class="hover:underline">Ludvik T. Vangli</a></p>
+                </div>
             </div>
             <div class="border-t text-center border-gray-700 mt-6 pt-4">
                 <p>© 2024 Larsen BI Konsult AS</p>
+                
             </div>
         </div>
     </footer>
