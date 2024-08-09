@@ -6,7 +6,7 @@
 
     <!-- First section, intro -->
     <div id="top" class="relative w-full h-screen">
-        <img src="https://www.opendatasoft.com/wp-content/uploads/2023/04/Blog-thumbnail-1.png" alt="Full Screen Image"
+        <img src="/back.jpg" alt="Full Screen Image"
             class="absolute inset-0 object-cover w-full h-full">
         <div class="absolute inset-0 bg-black opacity-70"></div>
         <div class="relative flex items-center justify-center h-full">
