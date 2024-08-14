@@ -57,6 +57,28 @@
 </template>
 
 <script setup>
+//meta tags
+import { useHead } from '@unhead/vue'
+
+useHead({
+  titleTemplate: '%s Larsen BI konsult',
+  meta: [
+    { charset: 'utf-8' },
+    { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+    { name: 'robots', content: 'index, follow' },
+    { name: 'author', content: 'Larsen BI konsult' },
+    { property: 'og:title', content: 'Larsen BI konsult' },
+    { property: 'og:description', content: 'Larsen Bikonsult offers top-tier consulting services to businesses across various industries.' },
+    // { property: 'og:image', content: 'https://larsenbikonsult.no/og-image.jpg' },
+    { property: 'og:url', content: 'https://larsenbikonsult.no' },
+
+
+    // Add more global meta tags here
+  ],
+})
+//meta tags
+
+
 import { ref } from 'vue';
 
 const isMenuOpen = ref(false);

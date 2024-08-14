@@ -76,6 +76,8 @@
             <h2 class="text-3xl md:text-5xl font-bold mb-2">
                 <a href="mailto:hei@larsenbikonsult.no" class="hover:underline">hei@larsenbikonsult.no</a>
             </h2>
+            
+
             <!-- <p class="text-gray-700 mb-2 text-sm md:text-base">Eller ring oss på:</p>
             <h2 class="text-xl md:text-3xl font-bold">
                 <a href="tel:+4790550266" class="hover:underline">(+47) 90 55 02 66</a>
