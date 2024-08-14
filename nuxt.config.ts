@@ -10,7 +10,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  
+
   modules: [
     '@nuxtjs/sitemap',
   ],
@@ -24,3 +24,4 @@ export default defineNuxtConfig({
     ],
   },
 })
+
