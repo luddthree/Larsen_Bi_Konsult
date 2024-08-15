@@ -1,10 +1,8 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   runtimeConfig: {
     public: {
-      gtagId: "G-RMC03X0HD9",
+      gtagId: "G-FKLG7BQCE3", // Ensure this is your correct Google Analytics ID
     }
   },
   devtools: { enabled: true },
@@ -20,13 +18,15 @@ export default defineNuxtConfig({
     '@nuxtjs/sitemap',
   ],
 
-  sitemap: { // @ts-ignore
+  sitemap: { //@ts-ignore
     hostname: 'https://larsenbikonsult.no',
     gzip: true,
     routes: [
       '/',  // Add your static routes here
-      // You can add dynamic routes here if needed
     ],
   },
-})
 
+  plugins: [
+    '~/plugins/googleAnalytics.js',  // Add the plugin here
+  ],
+});
