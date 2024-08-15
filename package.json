@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/google-gtag": "^1.0.4",
     "@nuxtjs/sitemap": "^6.0.0-beta.1",
     "nuxt": "^3.12.4",
     "vue": "latest"

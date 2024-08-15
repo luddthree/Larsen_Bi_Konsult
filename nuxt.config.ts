@@ -2,6 +2,11 @@
 
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
+  runtimeConfig: {
+    public: {
+      gtagId: "G-RMC03X0HD9",
+    }
+  },
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   postcss: {
